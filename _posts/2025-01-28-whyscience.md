@@ -1,7 +1,7 @@
 ---
 title: 기초과학을 해야할까
 date: 2025-01-28 14:35:00 +09:00
-categories: [CAREER]
+categories: [CAREER, LAB INTERN]
 tags:
 [기초과학, 진로, 
 ]
